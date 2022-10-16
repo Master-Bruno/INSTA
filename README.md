@@ -1,3 +1,6 @@
+# INSTA-MAX
+Instagram Hacking Tool
+
 # INSTA
 
 
@@ -53,12 +56,12 @@ $ pip2 install cpython
 $ pip install cython 
 $ pip2 install mechanize
 $ pip2 install requests
-$ git clone https://github.com/achuzachu/INSTA
-$ cd INSTA
+$ git clone https://github.com/achuzachu/INSTA-MAX
+$ cd INSTA-MAX 
 $ ls
 $ git pull
 $ chmod +x *
-$ python Insta_hack.py
+$ python instagram.py
 
  Tool Installation successful
 
