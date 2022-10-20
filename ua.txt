@@ -1,0 +1,906 @@
+Mozilla/5.0 (Linux; Android 11; SM-A107M Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.69 Mobile Safari/537.36[FBAN/EMA;FBLC/pt_BR;FBAV/315.0.0.18.109;]
+Mozilla/5.0 (Linux; Android 8.0.0; SM-A600U Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/298.0.0.10.115;]
+Mozilla/5.0 (Linux; Android 11; SM-A107F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/312.0.0.10.103;]
+Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 3 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/310.0.0.12.108;]
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 10; IN2019 Build/QQ3A.200905.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/307.0.0.9.109;]
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.53 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 9; RMX1941 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/308.0.0.10.108;]
+Mozilla/5.0 (Linux; Android 10; JNY-LX1 Build/HUAWEIJNY-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/304.0.0.9.106;]
+Mozilla/5.0 (Linux; Android 11; V2120 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/268.0.0.5.116;]
+Mozilla/5.0 (Linux; Android 10; RMX2185 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.70 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/310.0.0.12.108;]
+Mozilla/5.0 (Linux; Android 5.1; OPPO F1 Plus Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 10; SM-M305F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36[FBAN/EMA;FBLC/ar_AR;FBAV/310.0.0.12.108;]
+Mozilla/5.0 (Linux; Android 11; vivo 1906 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/305.0.0.12.106;]
+Mozilla/5.0 (Linux; Android 5.1.1; A37f Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 12; M2101K7BG Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36[FBAN/EMA;FBLC/en_GB;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (Linux; Android 10; HMA-L29 Build/HUAWEIHMA-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/309.0.0.16.114;]
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/10.10 Chromium/11.0.696.65 Chrome/11.0.696.65 Safari/534.24
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.3
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.0.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.2.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Mi 9T Build/PKQ1.190302.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.2.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.2.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Redmi Note 3 Build/OPM6.171019.030.H1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; es-us; Mi 9T Pro Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; BQru-5203 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi 5A Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; it-it; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; KOB-L09 Build/HUAWEIKOB-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.1.1; es-cl; H3321 Build/49.0.A.5.70) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; pt-br; SM-J600GT Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; en-in; Redmi Note 3 Build/PQ2A.190305.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; es-es; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; uk-ua; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 7 Build/PKQ1.181021.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.3.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-A605FN Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; it-it; Mi A2 Lite Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; PSP7510DUO Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 5.0; en-us; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 7A Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; id-id; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; uk-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; pt-pt; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; C228 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 6 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-by; Mi A2 Lite Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 9; es-us; SM-J610G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Moto G (5) Plus Build/OPS28.85-17-6-2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 9; en-in; ASUS_X01BDA Build/PKQ1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-A505FN Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; ZE552KL Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; en-us; SM-A205U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Lenovo L78011 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; Pixel 4 XL Build/QQ2A.200305.004.A1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-by; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 9; pl-pl; moto g(6) Build/PPSS29.55-37-7-6) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; pl-pl; Redmi 6A Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; BS650 Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; es-us; Moto G (4) Build/NPJS25.93-14-18) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; uk-ua; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 7A Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 9; es-ar; Mi A2 Lite Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; BV7000 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; Ilium X200 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; es-es; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; pt-br; motorola one vision Build/QSAS30.62-24-4) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; tr-tr; Redmi Note 8 Pro Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 4.4.4; bs-ba; E2105 Build/24.0.A.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; es-us; SM-J610G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 5.0.2; ro-ro; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.1.1; pt-pt; A14CR6A Build/NMF26O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; de-de; Redmi 5A Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; it-it; Mi MIX 2 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-by; JSN-L21 Build/HONORJSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; es-us; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; pt-br; Mi A2 Lite Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; es-es; ONEPLUS A6003 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi 4X Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 10; bg-bg; MI 9 Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-A205FN Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; SM-G920F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Pixel 2 XL Build/OPM2.171026.006.H1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 3 Build/PQ3A.190801.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi 5 Plus Build/QQ2A.200305.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 5.1.1; en-us; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; it-it; POT-LX1 Build/HUAWEIPOT-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; es-es; VS987 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; Mi-4c Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; pl-pl; ONEPLUS A6003 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; es-ar; SM-J701M Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; es-ve; 100005207 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 6.0; ru-ru; CRO-L22 Build/HUAWEICRO-L22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; uk-ua; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ua; JSN-L21 Build/HONORJSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 10; en-ca; SM-G970W Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.4
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; QMobile J2 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi 9 Lite Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 9; es-co; XT1801 Build/PQ3A.190801.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 8T Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.4
+Mozilla/5.0 (Linux; U; Android 8.1.0; tr-tr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; T780H Build/QKQ1.191105.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 9; en-gb; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-ar; moto e5 plus Build/OPPS27.91-179-8-13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-A505FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.2.1
+Mozilla/5.0 (Linux; U; Android 10; en-au; Mi A2 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; SM-G965U Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 7.1.2; es-es; Feel 7012N Build/NHG47K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; JSN-L21 Build/HONORJSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.5
+Mozilla/5.0 (Linux; U; Android 10; en-us; Pixel 3a Build/QQ2A.200405.005) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 9; en-us; Moto G6 Plus Build/PQ3A.190801.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-G960U Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 6.0; ru-ru; hi6210sft Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; Flare J6 Plus Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 5.1.1; ru-ru; SM-G531F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; MI 8 SE Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 10; en-us; Vibe K5 Plus Build/QD1A.190821.014.C2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 9; zh-tw; Redmi Note 8 Pro Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.0; es-es; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.0
+Mozilla/5.0 (Linux; U; Android 6.0; ru-ru; ZTE BLADE A610 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 9; es-pe; Power_6 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.1.2; uk-ua; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 5 Build/QQ1D.200205.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10.0; ru-ru; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 5.1.1; ar-eg; VS985 4G Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 8.1.0; cs-cz; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; 5033J Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ua; Moto C Build/NRD90M.067) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; SM-G920F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 8T Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 6.0; pt-br; Lenovo A2016b30 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; es-es; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.1.2; uk-ua; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; uk-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; HTC U11 plus Build/PPRL.190405.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 6.0; ru-ru; ZTE BLADE A610 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi 6 Pro Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Moto G (5S) Build/OPPS28.65-37-7-11) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 5.1.1; ru-ru; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; en-us; SM-M307F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi 5 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; cs-cz; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.0
+Mozilla/5.0 (Linux; U; Android 7.1.1; es-us; Moto E (4) Plus Build/NMA26.42-162-1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 6A Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.1
+Mozilla/5.0 (Linux; U; Android 10; es-us; MI MAX 3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; ZB633KL Build/WW_Phone-201911231308) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-us; moto e5 Build/OPPS27.91-176-11-16) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 9; id-id; Redmi 5 Plus Build/PQ3A.190801.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; uk-ua; Power_3L Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; cs-cz; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-ar; PRA-LX3 Build/HUAWEIPRA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; SM-G965F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ua; EML-L29 Build/HUAWEIEML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 5.1; en-gb; HUAWEI CUN-U29 Build/HUAWEICUN-U29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; G3212 Build/48.1.A.2.109) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; Mi Note 3 Build/QQ3A.200605.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POT-LX1 Build/HUAWEIPOT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; STF-L09 Build/HUAWEISTF-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 7.1.2; uk-ua; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; hi-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ua; Moto G (4) Build/NPJS25.93-14-18) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9 Lite Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Lenovo L38012 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Mi 9 SE Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi K30 5G Build/QKQ1.191222.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi MIX 2S Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.3.3
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 9; pt-br; moto g(8) plus Build/PPIS29.65-51-5) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; LYA-L29 Build/HUAWEILYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; GT-I9300I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; vivo 1818 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.4
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; MEIZU M6 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 6 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; en-us; RMX2040 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; STK-LX1 Build/HUAWEISTK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-es; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 5 Plus Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ua; RNE-L21 Build/HUAWEIRNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-gb; Redmi 4X Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; tr-tr; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; G3412 Build/48.1.A.2.122) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.4.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Nokia 7 plus Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; pt-br; Redmi Note 6 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi 8 Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 9 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; es-us; Moto G (4) Build/MPJ24.139-23.4) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; KIW-L21 Build/HONORKIW-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; HRY-LX1T Build/HONORHRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 9; en-in; Redmi Note 7 Pro Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; en-us; Mi A2 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; moto g(8) Build/QPJS30.63-35-1-9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 5.1.1; en-us; wt88047 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-gb; M2004J19C Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; JMM-L22 Build/HUAWEIJMM-L22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-A705FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Platinum P9 Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; YAL-L21 Build/HUAWEIYAL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-bb; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; it-it; ASUS_X00PD Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 5.1; ru-ru; Boost3 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; es-es; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; FestXL Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MAR-LX1M Build/HUAWEIMAR-L21MEA) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; el-gr; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-us; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Mi Note 10 Lite Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; id-id; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.3
+Mozilla/5.0 (Linux; U; Android 9; uk-ua; Redmi 7 Build/PKQ1.181021.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; en-gb; Mi 9 SE Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-A305G Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; id-id; M6T Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; vivo 1713 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; S88Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.1.1; ru-ru; SM-J250F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; LG-US998 Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; id-id; Redmi 5A Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; zh-tw; ASUS_I01WD Build/QP1A.190711.005) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; de-de; Mi MIX 2 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; pt-br; M10A_3G Build/V1_20191207) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-A205G Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; id-id; Redmi 6 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; cs-cz; Redmi Note 8T Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; tr-tr; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; id-id; RMX2030 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; zh-tw; Redmi Note 4X Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0; en-gb; DIG-L03 Build/HUAWEIDIG-L03) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-md; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-T865 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; KIW-L21 Build/HONORKIW-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-N975F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; ONEPLUS A6000 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; en-gb; ALP-TL00 Build/HUAWEIALP-TL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; SM-A805F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; bg-bg; Mi A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; ar-ae; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-pt; ASUS_X00DDA Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; A20Pro Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; es-pe; F3213 Build/36.1.A.1.112) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; id-id; Redmi 7 Build/PKQ1.181021.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-mx; Mi A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 6.0.1; id-id; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ua; F1 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; it-it; MIX 2 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0; sr-rs; NX597J Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; it-it; FIG-LX1 Build/HUAWEIFIG-L31) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-au; CPH1917 Build/QKQ1.190918.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; bg-bg; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; SM-G975F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; M2004J19C Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; MI 8 Lite Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Mi Note 3 Build/PKQ1.181007.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; en-us; ASUS_X01BDA Build/PKQ1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; M2007J20CG Build/QKQ1.200512.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Moto G (5S) Build/OPP28.65-37) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.3.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; SM-A510F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 7.1.1; uk-ua; SM-J250F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 6.0; zh-tw; A3-A40 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; meizu M8 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; Lenovo K80M Build/S100) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 5.0.2; ru-ru; Redmi Note 3 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.3
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi 3S Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Note 5 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.4.3
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; MI 8 Build/PKQ1.180729.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 5.1.1; id-id; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; HMA-L29 Build/HUAWEIHMA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.2.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; MI 6 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.0
+Mozilla/5.0 (Linux; U; Android 6.0; ru-ru; Le X626 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; ZTE BLADE V0920 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.3
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.4.3
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; ZB602KL Build/PKQ1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 6.0; en-us; Redmi Note 4X Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; de-at; SM-T813 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; tr-tr; MI 5 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 9 Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; de-de; Mi Note 10 Lite Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; G20 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi Note 7 Pro Build/QKQ1.190915.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; en-gb; SM-T813 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; fr-fr; M2002J9G Build/QKQ1.191222.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; SM-G975F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.0
+Mozilla/5.0 (Linux; U; Android 5.0.2; tr-tr; SM-G530F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; pt-br; ASUS_Z012DC Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; GM1913 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 5.0.2; ru-ru; ASUS_Z010D Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi MIX 3 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.3
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; AUM-L29 Build/HONORAUM-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-A405FM Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.2.2
+Mozilla/5.0 (Linux; U; Android 10; es-es; HMA-L09 Build/HUAWEIHMA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.0; de-de; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; ANE-LX1 Build/HUAWEIANE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-J400F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.9.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.3.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.2.1
+Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; HM 1S Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.5.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.2.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-J600F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.1.4
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-es; M20 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 9; es-us; SM-G950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-mx; motorola one Build/QPKS30.54-22-14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; POT-LX1 Build/HUAWEIPOT-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ar-iq; PAR-LX1M Build/HUAWEIPAR-LX1M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.3.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-mx; motorola one Build/QPKS30.54-22-14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; M2007J3SG Build/QKQ1.200419.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ro-ro; Digi R2 Build/P00610) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; es-es; G011A Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; JMM-L22 Build/HUAWEIJMM-L22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; vi-vn; Redmi K30 5G Build/QKQ1.191222.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-by; ZB602KL Build/PKQ1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; RMX1931 Build/QKQ1.191021.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; es-us; SM-A510M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; DUB-LX1 Build/HUAWEIDUB-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; ru-by; JSN-L21 Build/HONORJSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.0
+Mozilla/5.0 (Linux; U; Android 11; en-au; XQ-AT52 Build/58.1.A.0.921) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; moto g(7) Build/QPUS30.52-16-2-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 4.4.4; pt-br; G011A Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; YAL-L21 Build/HUAWEIYAL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 8T Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-id; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-A315G Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.1; ru-ru; MI MAX 2 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9T Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.1; ru-ru; 15 Build/NGI77B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; M2007J20CG Build/QKQ1.200512.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; en-us; SM-G955F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; fr-fr; CPH2015 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; pt-br; SM-J415G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; pt-br; SM-J415G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2,gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; ZC520KL Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; pt-br; SM-N975F Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.5
+Mozilla/5.0 (Linux; U; Android 10; pt-pt; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; de-de; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-G950N Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 9; pl-pl; ASUS_X00TD Build/PKQ1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 6A Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; fa-ir; SM-J710F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; en-us; GM1917 Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; MEIZU M6 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; DLI-TL20 Build/HONORDLI-TL20) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-A715F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; GM1910 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ro-ro; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; be-by; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; V2029 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; it-it; Mi MIX 2 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-in; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-ar; DRA-LX3 Build/HUAWEIDRA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; M2007J20CG Build/QKQ1.200512.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-ph; Flare S8 Build/RQ1A.210205.004) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; it-it; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; en-us; Mi 9 SE Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 6.0; es-es; CRO-L03 Build/HUAWEICRO-L03) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Mi 9 Lite Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.1; es-ec; E6653 Build/32.4.A.1.54) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi A2 Build/QQ1B.200205.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; M2003J15SC Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-kz; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ro-ro; SM-T500 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-by; ONEPLUS A5010 Build/PKQ1.180716.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-T865 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; HD1905 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; uk-ua; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; it-it; MI 9 Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi A2 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; vi-vn; M2007J20CG Build/QKQ1.200512.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MAR-LX1M Build/HUAWEIMAR-L21MEA) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Mi A3 Build/RKQ1.200903.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; M2004J19C Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; MI A3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-es; M2003J15SC Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 7 Build/QQ2A.200405.005) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-J810M Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi 6 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.1.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; RMX2063 Build/QKQ1.191222.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; vi-vn; SHARK KLE-A0 Build/KLEN2101290CN00MQ4) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; bg-bg; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-au; SM-A205YN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; en-nz; ONEPLUS A6013 Build/PKQ1.180716.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-us; Redmi K30 5G Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.1; id-id; A33w Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-A105M Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 6.0.1; id-id; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.1.1; fr-fr; Hisense L678 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; fr-fr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ua; A60Pro Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.2.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; H6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; vi-vn; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; moto g(7) plus Build/QPWS30.61-21-18-7) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; it-it; SM-A920F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; MI 8 SE Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-pe; AMN-LX3 Build/HUAWEIAMN-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi 8 Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.1; pt-br; XT1058 Build/LPAS23.12-21.7-1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-es; SM-N950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-us; BLADE V9 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; mr-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; tr-tr; KB2003 Build/RP1A.201005.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; ELS-NX9 Build/HUAWEIELS-N29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 4.4.4; es-us; MediaPad T1 8.0 Pro Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.1; pt-br; ONEPLUS A5000 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8T Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; bg-bg; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-N950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2101K7AG Build/RKQ1.201022.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi A2 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-gb; CPH2119 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; SM-A720F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; pt-br; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; hu-hu; Redmi Note 5 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.0.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; RMX1911 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; Redmi Note 9 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-mx; TA-1027 Build/PKQ1.181105.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 6 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; A7 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ar-eg; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.6
+Mozilla/5.0 (Linux; U; Android 7.1.2; en-us; vmos Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-es; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-cr; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-mx; Nokia 6.1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; es-us; Moto C Plus Build/NRD90M.04.030) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-A115M Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; it-it; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; en-gb; FIG-LX1 Build/HUAWEIFIG-L31) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; cs-cz; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; LM-K200 Build/QKQ1.200311.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; CPH1937 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; RMX2185 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; id-id; SM-J730G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; id-id; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; VTR-L29 Build/HUAWEIVTR-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pl-pl; SM-G973F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; COL-L29 Build/HUAWEICOL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; V2026 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; uk-ua; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 9 SE Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-mx; Twist Mini Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; pt-pt; STARNAUTE4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-A105F Build/QQ3A.200905.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-es; SM-A107M Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-pk; V2025 Build/RP1A.200709.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; tr-tr; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; RMX2117 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2102J20SG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; id-id; SM-A505F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pt-br; T800 Build/RP1A.201005.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; M2007J20CT Build/QKQ1.200512.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-mx; JKM-LX3 Build/HUAWEIJKM-L03) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pt-br; SM-A015M Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; id-id; RMX1911 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; vi-vn; vmos Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Mi Note 3 Build/PKQ1.181007.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.1; en-us; K1001P95 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; lt-lt; YAL-L21 Build/HUAWEIYAL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 4.4.4; en-gb; SM-A700FD Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; M2006C3MII Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; V2026 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.0.1; es-es; tablet_PC Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi 8 Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-us; SM-J737A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi 9T Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; ar-eg; Infinix X608 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; vivo 1801 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 4.4.1; es-us; ASUS Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-ru; STK-LX1 Build/HONORSTK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-us; Redmi Note 9S Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; SM-N910C Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; it-it; M2007J20CG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; SM-J260MU Build/M1AJB) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pl-pl; M2101K6G Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-gb; RMX2185 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-gb; M2010J19SG Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 6.0; en-us; Primo GH6+ Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; tr-tr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; he-il; M2101K7BG Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Mi 9 SE Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pt-br; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; it-it; moto g(9) play Build/RPXS31.Q2-58-16-2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2,gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; PMT4138_4G_EEA Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; Redmi 3S Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.4.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; M2006C3MNG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; en-gb; RMX1805 Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; pt-br; moto e6s Build/POES29.288-60-6-1-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Mi 9 Lite Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-us; Mi A3 Build/RKQ1.200903.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-J600G Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2,gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-J600G Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; vivo X20A Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; pt-br; Redmi 6A Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; el-gr; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pt-br; moto g 5G plus Build/RPNS31.Q4U-39-27-5-6) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; it-it; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; SM-A715F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; it-it; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-A013M Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2101K7AG Build/RKQ1.201022.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; fr-fr; SM-M515F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; ar-ma; SM-J730GM Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; M2101K7AG Build/RKQ1.201022.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; fr-fr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; Redmi Note 3 Build/OPM6.171019.030.E1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; fr-fr; M2101K7AG Build/RKQ1.201022.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; en-gb; LM-G850 Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; it-it; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; es-us; Redmi Note 9S Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; pt-br; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; en-us; GM1901 Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; hu-hu; M2101K7BNY Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 9; en-us; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; ar-eg; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; fr-dz; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi Note 7 Pro Build/QKQ1.190915.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; SM-G975F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; DUA-L22 Build/HONORDUA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-us; M2007J3SG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; M2010J19CG Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; M2010J19CG Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1,gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.2
+Mozilla/5.0 (Linux; U; Android 5.1; ru-ru; M3s Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.1
+Mozilla/5.0 (Linux; U; Android 5.1.1; ru-ru; SM-J200H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 9S Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; M2101K9AG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; pt-br; Mi A3 Build/RKQ1.200903.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; en-gb; SM-T595 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; pt-br; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 9; my-mm; Redmi Note 6 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.1
+Mozilla/5.0 (Linux; U; Android 11; vi-vn; M2007J17C Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.0
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; MI 4LTE Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; MI 4LTE Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; it-it; Mi 9 Lite Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-cr; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; es-us; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; pt-br; M2007J20CG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-us; Lenovo TB-8504F Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.5
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; RMX1921 Build/RKQ1.201217.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; pt-br; SM-A225M Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; it-it; CPH2065 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; es-us; moto g(7) power Build/QPOS30.52-29-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; vi-vn; Live Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; pl-pl; M2101K7BNY Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; DUA-L22 Build/HONORDUA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 9; es-es; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; F5121 Build/34.4.A.2.107) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; es-es; SM-A705MN Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; el-gr; M2012K11AG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; STV100-4 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; es-us; M2010J19SL Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; es-us; M2006C3MG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-us; Lenovo TB-8504F Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; es-pe; ART-L28 Build/HUAWEIART-L28) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-us; Redmi Note 8 Build/RQ3A.210605.005) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 9; en-gb; MRD-LX2 Build/HUAWEIMRD-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; es-us; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; SM-T295 Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-pt; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; SM-J730FM Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; M2101K7AG Build/RKQ1.201022.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; Redmi K30 5G Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; fr-fr; SM-A530F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; HUAWEI NMO-L31 Build/HUAWEINMO-L31) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; fr-fr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; fr-fr; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; DUB-LX1 Build/HUAWEIDUB-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ar-eg; M2003J15SC Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; pt-pt; POT-LX1 Build/HUAWEIPOT-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4637.2 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-G965F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.0; pt-br; LG-M400 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4579.1 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi Note 7 Pro Build/QKQ1.190915.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 6.0; it-it; FEVER Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ua; YAL-L21 Build/HUAWEIYAL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; es-us; M2007J3SG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; fr-fr; Note 30 pro Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-es; M2010J19SY Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; CLT-L29 Build/HUAWEICLT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; M2002J9G Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4596.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-sv; MRD-LX3 Build/HUAWEIMRD-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4603.1 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4602.7 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4584.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4615.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4625.2 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4589.1 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4581.1 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; id-id; M60 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4626.2 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; nl-nl; M2101K9G Build/RKQ1.201112.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; SM-G780G Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; es-us; moto g(8) plus Build/QPIS30.28-Q3-28-26-4-1-7) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G7106 Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; es-us; M2012K11AG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; id-id; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; A60 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; DLI-TL20 Build/HONORDLI-TL20) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-A600FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.0
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; motorola one fusion+ Build/QPIS30.73-33-11) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/2.4.0
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; RMX2001 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI MAX 3 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; it-it; MI 9 Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-mx; TA-1027 Build/PKQ1.181105.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4604.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Impress_Life Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.5
+Mozilla/5.0 (Linux; U; Android 11; id-id; CPH2113 Build/RKQ1.200903.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; BE2029 Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi 7A Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4598.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9S Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; el-gr; Redmi 7A Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MAR-LX1B Build/HUAWEIMAR-L21B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 8 Pro Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.0
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4618.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4627.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.31 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.1.4606.61 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; JAT-LX1 Build/HONORJAT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; sv-se; P55A-UD3 Build/QQ2A.200405.005) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 11; id-id; M2102J20SG Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4612.9 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; es-us; iPhone de Dalila Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 5.0.2; ru-ru; SM-A300H Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4622.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; es-es; ASUS_Z01QD Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.1
+Mozilla/5.0 (Linux; U; Android 11; zh-tw; CPH2025 Build/RKQ1.200710.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 4.4.2; ru-md; SM-N950F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Mi A3 Build/RKQ1.200903.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4662.3 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; ANA-NX9 Build/HUAWEIANA-N29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; GM1913 Build/QKQ1.190716.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 7.1.2; az-az; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Mi 9 Lite Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; pt-br; SM-G988N Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; pt-br; moto g(7) power Build/QPOS30.52-29-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 7 Pro Build/QKQ1.190915.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.4
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4672.112 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; itel A16 Plus RU Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 6.0.1; vi-vn; SAMSUNG-SM-G920A Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4690.46 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.4.7
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; Mi A2 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4659.146 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; DRA-LX2 Build/HUAWEIDRA-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; id-id; SM-A107F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-cr; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.0.0; en-us; RNE-L21 Build/HUAWEIRNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 7.1.2; pt-br; ASUS_Z01QD Build/N2G48H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4674.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4649.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 12; fr-fr; 2109119DG Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4656.5 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; en-us; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-us; Mi 9T Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; en-us; Nokia X6 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.0
+Mozilla/5.0 (Linux; U; Android 11; ja-jp; M2004J19C Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; vi-vn; RMX2205 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-cr; moto e6s Build/POBS29.288-60-6-1-22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; SM-T585 Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4657.172 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; pt-br; M2004J19C Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/1.6.5
+Mozilla/5.0 (Linux; U; Android 10; uk-ua; SM-M215F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.6.0
+Mozilla/5.0 (Linux; U; Android 7.1.2; ru-ru; vmos Build/NZH54D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-sv; FLA-LX3 Build/HUAWEIFLA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.3.1
+Mozilla/5.0 (Linux; U; Android 10; de-de; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; es-us; M2004J19C Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; pt-br; moto g(9) play Build/RPXS31.Q2-58-16-3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; pt-br; Moto G (5) Build/OPP28.85-19-4-2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4671.1 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-mx; Lenovo L38041 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.8.0
+Mozilla/5.0 (Linux; U; Android 12; es-co; LE2115 Build/SKQ1.210216.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; en-us; PCPM00 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-by; motorola one Build/QPKS30.54-22-27) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9S Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Redmi K20 Pro Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4697.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; de-de; SM-J600FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 5A Prime Build/QQ3A.200705.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; Nokia 7.2 Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; en-gb; SM-A715F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4651.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4669.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 9; es-us; SM-J415G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; id-id; CPH1823 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; MI PLAY Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-by; HRY-LX1T Build/HONORHRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; tr-tr; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; en-us; M2101K7AG Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; es-us; SM-G781U1 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; en-us; RMX2020 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; pt-br; SM-G9650 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 5.0.2; ru-ru; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; tr-tr; M2007J3SY Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.0.0; ru-ru; ATU-L31 Build/HUAWEIATU-L31) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; it-it; YAL-L41 Build/HUAWEIYAL-L41) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 6.0; es-ec; MYA-L03 Build/HUAWEIMYA-L03) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Pro_P300_4G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; en-gb; 2107113SG Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; RMX3081 Build/RKQ1.201112.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; en-gb; SM-T505 Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.5.2
+Mozilla/5.0 (Linux; U; Android 10; pt-br; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; vi-vn; MI 9 Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4692.77 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 5.1.1; en-us; SM-J105H Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; es-cr; AMN-LX9 Build/HUAWEIAMN-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; en-gb; SM-J400F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-by; KOB2-L09 Build/HUAWEIKOB2-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 8T Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-G960F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; de-de; M2101K9G Build/RKQ1.201112.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; es-us; SM-A215U Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; en-gb; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; pt-br; moto g(10) Build/RRBS31.Q1-3-48-13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; POCOPHONE F1 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4796.0 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.1
+Mozilla/5.0 (Linux; U; Android 11; es-mx; SM-A127F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; RMX2063 Build/QKQ1.191222.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4893.117 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; en-pk; V2043 Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 11; pl-pl; M2103K19G Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-gb; E5823 Build/32.4.A.1.54) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; en-gb; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi 6 Pro Build/PKQ1.180917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; SM-J610FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 11; it-it; SM-A125F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 8 Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; tr-tr; Venus e5 Build/VT1060) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; id-id; 2107113SG Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; ru-ru; M2101K7AG Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 6.0.1; pt-pt; M2102K1AC Build/V417IR) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; ru-ru; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; en-us; V2040 Build/SP1A.210812.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.7.2
+Mozilla/5.0 (Linux; U; Android 12; pt-br; M2102J20SG Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.0.0; es-sv; FLA-LX3 Build/HUAWEIFLA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; JSN-L21 Build/HONORJSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 8.1.0; es-us; Redmi Go Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ru; MI 8 SE Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; uk-ua; M2101K7BNY Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 10; ru-ua; Mi A2 Lite Build/QKQ1.191002.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; 2014811 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; es-us; M2101K7AG Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; pt-br; SM-N986B Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; ru-ru; SM-A315F Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 7.1.1; pt-br; ONEPLUS A5000 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; pt-br; moto g(6) plus Build/PPW29.116-16-29) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; id-id; CPH2015 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; es-es; POCO F2 Pro Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 6.0.1; pt-pt; SM-G9910 Build/V417IR) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; en-ir; MRD-LX1F Build/HUAWEIMRD-LX1F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 12; pt-br; 2201117TG Build/SKQ1.211103.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; U; Android 9; pt-br; Moto Z3 Play Build/PPWS29.131-27-1-27) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/Mint Browser/3.9.3
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J510FN Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36
