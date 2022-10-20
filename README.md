@@ -61,7 +61,7 @@ $ cd INSTA
 $ ls
 $ git pull
 $ chmod +x *
-$ python instagram.py
+$ python insta.py
 
  Tool Installation successful
 
