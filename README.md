@@ -45,23 +45,24 @@ This is a tool that will help you crack Instagram account very quickly.  You als
  
  
 ```bash
-$ apt update
-$ apt upgrade
-$ pkg install git
-$ pkg install python
-$ pkg install python2
-$ apt-get install pip
-$ pip2 install pip
-$ pip2 install cpython
-$ pip install cython 
-$ pip2 install mechanize
-$ pip2 install requests
-$ git clone https://github.com/achuzachu/INSTA
-$ cd INSTA
-$ ls
-$ git pull
-$ chmod +x *
-$ python insta.py
+apt update
+apt upgrade
+pkg install git
+pkg install python
+pkg install python2
+apt-get install pip
+pip2 install play-audio
+pip install play-audio
+pip2 install cpython
+pip install cython 
+pip2 install mechanize
+pip2 install requests
+git clone https://github.com/achuzachu/INSTA
+cd INSTA
+ls
+git pull
+chmod +x *
+python insta.py
 
  Tool Installation successful
 
