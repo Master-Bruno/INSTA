@@ -62,7 +62,7 @@ cd INSTA
 ls
 git pull
 chmod +x *
-python insta.py
+python InstaMax.py
 
  Tool Installation successful
 
